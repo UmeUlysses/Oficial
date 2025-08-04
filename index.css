@@ -1,4 +1,4 @@
-html {
+tml {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
@@ -73,7 +73,7 @@ ul {
 }
 
 .sobre {
-    background-color: #CBE8BD;
+    background-color:color-mix(in srgb,  #196BF0, white 50%);
     
 }
 
@@ -82,11 +82,27 @@ ul {
          
 }
 
-.python {
-    background-color:#4992BF ;
+.memorias {
+    background-color:color-mix(in srgb,  #196BF0, white 40%);
 }
 
-#python p{
+#memorias p {
+    font-size: 1.5em;
+    text-transform: uppercase;
+    font-weight: bold;
+    color:#2115ED;
+    
+}
+
+.memorias {
+    background-color:color-mix(in srgb,  #196BF0, white 40%);
+}
+
+.producao {
+    background-color:color-mix(in srgb,  #196BF0, white 30%);
+}
+
+#producao p {
     font-size: 1.5em;
     text-transform: uppercase;
     font-weight: bold;
@@ -96,8 +112,9 @@ ul {
 
 
 
+
 .scratch {
-     background-color:color-mix(in srgb, #F2BB16,white 40%);
+    background-color:color-mix(in srgb,  #196BF0, white 20%);
      padding: 1em;
 }
 
@@ -111,7 +128,7 @@ ul {
 }
 
 footer {
-    background-color:color-mix(in srgb, #196BF0,white    30%);
+    background-color:color-mix(in srgb, #196BF0,white    10%);
     padding: .8em;
     text-align: center;
 
@@ -286,6 +303,7 @@ footer {
     margin-top: 10px;
     
  }
+
   h1 {
     color:#6c0b9c;
     letter-spacing: 1.5px;
@@ -351,3 +369,4 @@ footer {
     margin: 100pxtopo 11px/*esquerda 100px/baixo 8px direita;
     border-radius: 10px;
 }*/
+
