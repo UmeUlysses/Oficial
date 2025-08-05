@@ -1,4 +1,4 @@
-tml {
+html {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
@@ -80,6 +80,11 @@ ul {
 .sobre img {
     width: 18em;
          
+}
+
+.inicio img {
+    width: 30em;
+
 }
 
 .memorias {
@@ -369,4 +374,5 @@ footer {
     margin: 100pxtopo 11px/*esquerda 100px/baixo 8px direita;
     border-radius: 10px;
 }*/
+
 
