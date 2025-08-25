@@ -11,9 +11,9 @@ html {
 }
 
 .header_logo {
-    width: 10em;
+    width: 8em;
     height: auto;
-    border-radius: 5px;
+    border-radius: 3px;
     
 }
 
@@ -187,9 +187,9 @@ footer {
         display: inline-block;
     }
 
-    .header_logo {
+    /*.header_logo {
         margin-left: 5em;
-    }
+    }*/
 
    
     .carousel-item {
@@ -374,5 +374,6 @@ footer {
     margin: 100pxtopo 11px/*esquerda 100px/baixo 8px direita;
     border-radius: 10px;
 }*/
+
 
 
